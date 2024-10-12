@@ -1,6 +1,6 @@
 Hi, I’m Kyle D'Souza.
 
-I'm a third year software engineering student at McMaster University.
+I'm a fourth-year software engineering student at McMaster University.
 
 
 <!---
